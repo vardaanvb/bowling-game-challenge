@@ -1,5 +1,5 @@
-/bowling-game
-│── BowlingGame.js          # Game logic
-│── testData.js             # Test cases data (input & expected output)
-│── BowlingGame.test.js     # Test execution script
-Execution Command - node BowlingGame.test.js
+/bowling-game<br>
+│── BowlingGame.js          # Game logic<br>
+│── testData.js             # Test cases data (input & expected output)<br>
+│── BowlingGame.test.js     # Test execution script<br>
+Execution Command - node BowlingGame.test.js<br>
